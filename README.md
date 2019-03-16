@@ -23,7 +23,9 @@ HMS-PrePro, Copyright (c) Cynthia Castro. All rights reserved.
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+(at your option) any later version.  If you modify this program, you
+agree to contact the Author and upload any modified tools/scripts
+into Github repository "HMSPrePro" for public use.
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
