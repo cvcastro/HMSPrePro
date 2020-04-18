@@ -1,6 +1,4 @@
-===================
 HMS-PrePro
-===================
 
 HMS-PrePro contains ArcGIS geoprocessing script tools for extracting data from Esri's Living Atlas, 
 deriving a watershed network, estimating hydrological parameters, and storing results in a .BASIN 
@@ -38,6 +36,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Contact
 -----------
-Cynthia V. Castro
+Cyndi V. Castro
 cynthiavail11@gmail.com
 castrocv@uh.edu
