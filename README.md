@@ -39,4 +39,3 @@ Contact
 -----------
 Cyndi V. Castro
 cynthiavail11@gmail.com
-castrocv@uh.edu
