@@ -3,13 +3,13 @@ HMS-PrePro
 
 HMS-PrePro contains ArcGIS geoprocessing script tools for extracting data from Esri's Living Atlas, 
 deriving a watershed network, estimating hydrological parameters, and storing results in a .BASIN 
-output ASCII file that may be used as input for the HEC-HMS watershed modeling software.
+output ASCII file that may be used as rapid input for initializing a basin model in the HEC-HMS watershed modeling software.
   
 
 Installation
 ------------
-This product requires ESRI ArcGIS, 3D Analyst, Spatial Analyst, and Arc Hydro.
-ArcGIS Desktop Background Processing 64-bit is also strongly encouraged.
+This product requires ESRI ArcGIS v10.xx, 3D Analyst, Spatial Analyst, and Arc Hydro.
+ArcGIS Desktop Background Processing 64-bit is also encouraged.
 
 To install HMS-PrePro, place the contents of this folder anywhere on your computer.  
 The HMS-PrePro folder contains a toolbox that you can add to ArcToolbox or ArcCatalog.
